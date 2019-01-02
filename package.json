@@ -1,0 +1,21 @@
+{
+  "name": "word_picker",
+  "version": "1.0.0",
+  "description": "word picker\r --",
+  "main": "word_picker.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
+  },
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "author": "ubansi",
+  "license": "ISC"
+}
