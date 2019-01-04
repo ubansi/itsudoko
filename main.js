@@ -45,21 +45,20 @@ function makeSentence() {
 }
 
 function call(){
-    for(let i=0;i<1000;i++){
-        makeSentence();
-    }
     
+    makeSentence();
+
     // console.log(when);
     // console.log(where);
     // console.log(who);
     // console.log(what);
     // console.log(doSomething);
 
-    fs.writeFileSync(whenJson,JSON.stringify(when));
-    fs.writeFileSync(whereJson,JSON.stringify(where));
-    fs.writeFileSync(whoJson,JSON.stringify(who));
-    fs.writeFileSync(whatJson,JSON.stringify(what));
-    fs.writeFileSync(doSomethingJson,JSON.stringify(doSomething));
+    fs.writeFileSync(whenJson,JSON.stringify(when,null,4));
+    fs.writeFileSync(whereJson,JSON.stringify(where,null,4));
+    fs.writeFileSync(whoJson,JSON.stringify(who,null,4));
+    fs.writeFileSync(whatJson,JSON.stringify(what,null,4));
+    fs.writeFileSync(doSomethingJson,JSON.stringify(doSomething,null,4));
 
 }
 
