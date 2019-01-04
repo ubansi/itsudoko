@@ -1,1 +1,32 @@
-[{"word":"さっき","count":748,"probability":1},{"word":"昨日","count":750,"probability":0.7290000000000001},{"word":"先月","count":753,"probability":0.5314410000000002},{"word":"平成最後の夏","count":749,"probability":0.81}]
+[
+    {
+        "word": "昨日",
+        "count": 4,
+        "probability": 0.7290000000000001
+    },
+    {
+        "word": "おととい",
+        "count": 4,
+        "probability": 0.7290000000000001
+    },
+    {
+        "word": "さっき",
+        "count": 3,
+        "probability": 0.81
+    },
+    {
+        "word": "先月",
+        "count": 2,
+        "probability": 0.9
+    },
+    {
+        "word": "平成最後の夏",
+        "count": 4,
+        "probability": 0.81
+    },
+    {
+        "word": "昨日午前0時ごろ",
+        "count": 1,
+        "probability": 1
+    }
+]
