@@ -1,37 +1,37 @@
 [
     {
         "word": "食べた",
-        "count": 3,
-        "probability": 0.7290000000000001
+        "count": 0,
+        "probability": 1
     },
     {
         "word": "作った",
-        "count": 3,
-        "probability": 0.7290000000000001
+        "count": 0,
+        "probability": 1
     },
     {
         "word": "燃やした",
-        "count": 2,
-        "probability": 0.81
+        "count": 0,
+        "probability": 1
     },
     {
         "word": "見なかったことにした",
-        "count": 1,
+        "count": 0,
         "probability": 1
     },
     {
         "word": "一生愛すると叫んだ",
-        "count": 6,
-        "probability": 0.5314410000000002
+        "count": 0,
+        "probability": 1
     },
     {
         "word": "よく焼いて食べた",
-        "count": 2,
-        "probability": 0.81
+        "count": 0,
+        "probability": 1
     },
     {
         "word": "凍らせて保存した",
-        "count": 1,
-        "probability": 0.9
+        "count": 0,
+        "probability": 1
     }
 ]

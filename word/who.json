@@ -1,18 +1,18 @@
 [
     {
         "word": "プログラマ",
-        "count": 1,
-        "probability": 0.9
+        "count": 0,
+        "probability": 1
     },
     {
         "word": "人",
-        "count": 1,
-        "probability": 0.9
+        "count": 0,
+        "probability": 1
     },
     {
         "word": "馬",
-        "count": 1,
-        "probability": 0.9
+        "count": 0,
+        "probability": 1
     },
     {
         "word": "犬",
@@ -21,13 +21,13 @@
     },
     {
         "word": "猫",
-        "count": 2,
-        "probability": 0.81
+        "count": 0,
+        "probability": 1
     },
     {
         "word": "男",
-        "count": 2,
-        "probability": 0.81
+        "count": 0,
+        "probability": 1
     },
     {
         "word": "女",
@@ -36,18 +36,18 @@
     },
     {
         "word": "人類最強の男",
-        "count": 2,
-        "probability": 0.9
+        "count": 0,
+        "probability": 1
     },
     {
         "word": "引きこもり",
-        "count": 1,
-        "probability": 0.9
+        "count": 0,
+        "probability": 1
     },
     {
         "word": "ニート",
-        "count": 2,
-        "probability": 0.81
+        "count": 0,
+        "probability": 1
     },
     {
         "word": "侍",
@@ -56,17 +56,17 @@
     },
     {
         "word": "忍者",
-        "count": 2,
-        "probability": 0.81
+        "count": 0,
+        "probability": 1
     },
     {
         "word": "国会議員",
-        "count": 1,
-        "probability": 0.9
+        "count": 0,
+        "probability": 1
     },
     {
         "word": "お医者さん",
-        "count": 3,
-        "probability": 0.7290000000000001
+        "count": 0,
+        "probability": 1
     }
 ]
