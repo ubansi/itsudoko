@@ -23,6 +23,9 @@ function wordPick(words) {
 
     words[index].count++;
 
+    // 更新後の確率を再計算(処理に影響はない)
+    words = wordPicker.createWordTable(words);
+
     return index;
 };
 
