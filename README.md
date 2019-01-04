@@ -13,6 +13,7 @@ node main.js
 
 ## テスト方法
 `npm test`
+
 エントロピーが付与された選択が行われるかをテストする
 試行回数が少ない場合には失敗することがある
 
@@ -24,6 +25,24 @@ node main.js
 * 誰が: `who.json`
 * 何を: `what.json`
 * どうした: `do_something.json`
+
+### word_converter
+`./script/word_converter.js`
+
+を実行することで`raw_word`ディレクトリ内のTSV形式の単語リストを読み込み可能なjson形式に変換することができる。
+`raw_word`内の`input.tsv`ファイルを`output.json`形式に変換する際の実行方法は
+
+`node script/word_converter.js input.tsv output.json`
+
+引数無しで実行した場合、
+```
+./raw_word/do_something.tsv
+./raw_word/what.tsv
+./raw_word/when.tsv
+./raw_word/where.tsv
+./raw_word/who.tsv
+```
+のファイル変換が実行される。
 
 ## エントロピーについて
 選択した単語は次の抽選では選ばれにくくなるように
@@ -61,3 +80,5 @@ countを選出回数、probabilityを確率係数とすると
 `0.9^(2-1) = 0.9`
 
 となる
+
+probabilityは回数から計算されるため、変更しても常に計算結果で上書きされる。

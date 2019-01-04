@@ -1,1 +1,37 @@
-[{"word":"お弁当","count":749,"probability":0.7290000000000001},{"word":"パソコン","count":751,"probability":0.5904900000000002},{"word":"スマホ","count":754,"probability":0.47829690000000014},{"word":"人","count":746,"probability":1}]
+[
+    {
+        "word": "お弁当",
+        "count": 0,
+        "probability": 1
+    },
+    {
+        "word": "パソコン",
+        "count": 0,
+        "probability": 1
+    },
+    {
+        "word": "スマホ",
+        "count": 0,
+        "probability": 1
+    },
+    {
+        "word": "人",
+        "count": 0,
+        "probability": 1
+    },
+    {
+        "word": "ボール",
+        "count": 0,
+        "probability": 1
+    },
+    {
+        "word": "バット",
+        "count": 0,
+        "probability": 1
+    },
+    {
+        "word": "薪",
+        "count": 0,
+        "probability": 1
+    }
+]

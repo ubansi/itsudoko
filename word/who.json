@@ -1,1 +1,72 @@
-[{"word":"プログラマ","count":751,"probability":0.6561000000000001},{"word":"犬","count":749,"probability":0.81},{"word":"馬","count":752,"probability":0.5904900000000002},{"word":"人","count":748,"probability":1}]
+[
+    {
+        "word": "プログラマ",
+        "count": 0,
+        "probability": 1
+    },
+    {
+        "word": "人",
+        "count": 0,
+        "probability": 1
+    },
+    {
+        "word": "馬",
+        "count": 0,
+        "probability": 1
+    },
+    {
+        "word": "犬",
+        "count": 0,
+        "probability": 1
+    },
+    {
+        "word": "猫",
+        "count": 0,
+        "probability": 1
+    },
+    {
+        "word": "男",
+        "count": 0,
+        "probability": 1
+    },
+    {
+        "word": "女",
+        "count": 0,
+        "probability": 1
+    },
+    {
+        "word": "人類最強の男",
+        "count": 0,
+        "probability": 1
+    },
+    {
+        "word": "引きこもり",
+        "count": 0,
+        "probability": 1
+    },
+    {
+        "word": "ニート",
+        "count": 0,
+        "probability": 1
+    },
+    {
+        "word": "侍",
+        "count": 0,
+        "probability": 1
+    },
+    {
+        "word": "忍者",
+        "count": 0,
+        "probability": 1
+    },
+    {
+        "word": "国会議員",
+        "count": 0,
+        "probability": 1
+    },
+    {
+        "word": "お医者さん",
+        "count": 0,
+        "probability": 1
+    }
+]
